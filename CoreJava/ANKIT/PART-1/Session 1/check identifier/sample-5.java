@@ -1,0 +1,4 @@
+class sample-5
+{
+
+}
